@@ -1,0 +1,8 @@
+label	word
+acro	251
+en	13082
+hi	2853
+mixed	7
+ne	649
+undef	2
+univ	3606
